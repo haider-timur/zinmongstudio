@@ -2,7 +2,6 @@
 title: "Project Two"
 description: "Description"
 tech: [Jekyll, HTML, CSS]
-link: https://github.com/yourusername/repo-name
 thumbnail: /assets/images/portfolio-thumb.png
 layout: project
 ---
