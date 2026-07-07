@@ -1,5 +1,5 @@
 ---
-title: "Project Three"
+title: "Project Four"
 description: "Description"
 date: 2026-07-15
 thumbnail: /assets/images/playfight-club_2nd-edition.jpg
