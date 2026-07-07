@@ -1,8 +1,8 @@
 ---
 title: "Project One"
 description: "Description"
-tech: [Jekyll, HTML, CSS]
-thumbnail: /assets/images/portfolio-thumb.png
+date: 2026-01-15
+thumbnail: /assets/images/playfight-club_2nd-edition.jpg
 layout: project
 ---
 
