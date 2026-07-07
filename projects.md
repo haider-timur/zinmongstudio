@@ -3,6 +3,6 @@ layout: default
 title: Projects
 ---
 
-# Hi, I'm [Name]
+# Hi, I'm Jacky
 
 Short intro about what you do.
