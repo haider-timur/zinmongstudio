@@ -67,3 +67,23 @@ nav a { margin-right: 1rem; text-decoration: none; color: inherit;}
   font-size: 1.2rem;
   margin: 0rem 0;
 }
+
+
+.project-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+  gap: 1rem;
+}
+
+.project-gallery img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.project-gallery figcaption {
+  font-size: 0.7rem;
+  color: #ffffff;
+  margin-top: 0.4rem;
+  text-align: left;
+}
