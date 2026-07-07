@@ -2,3 +2,8 @@ title: Zinmong Studio
 description: Portfolio site
 baseurl: ""
 url: "https://yourusername.github.io"
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/

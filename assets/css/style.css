@@ -1,5 +1,21 @@
-body { font-family: "Inter Tight", sans-serif; max-width: 1000px; margin: 0 auto; padding: 2rem; }
+body {
+    
+    font-family: "Inter Tight", sans-serif; 
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: #0000FF;
+    }
+
+    
+.container {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 3vw 3vw 10vw 3vw;
+    background-color: #FFFFFF;
+  }
+
 
 h1 { font-family: "Black Ops One", system-ui; }
 
-nav a { margin-right: 1rem; }
+nav a { margin-right: 1rem;}
